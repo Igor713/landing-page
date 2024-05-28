@@ -1,4 +1,4 @@
-import Heading from '.';
+import Heading from './index';
 
 export default {
   title: 'Heading',
